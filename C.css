@@ -1,3 +1,11 @@
 body{
     margin: 0;
 }
+
+html{
+    --color-background: "#000";
+}
+
+.wrapper{
+    background-color: var(--color-background);
+}
